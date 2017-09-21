@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Hi.
 
-You can use the [editor on GitHub](https://github.com/adrieltan1/adrieltan1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I need to put something more **descriptive** here in the future. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Meanwhile, check out the other stuff I do on the internets
 
-### Markdown
+### AXIS PROJECT
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A place where I upload video semi-regular basis talking about tech. How-to's, reviews, stuff like that. 
 
-```markdown
-Syntax highlighted code block
+Main channel where you can find more refined/edited stuff is called AXIS Project: [youtube.com/axisprojectvideo](youtube.com/axisprojectvideo)
 
-# Header 1
-## Header 2
-### Header 3
+Vloggy/whatever happens stuff comes under extras: [link because too little subs = no custom link :(](https://www.youtube.com/channel/UCZWzdjp3yrrpNDfKHQXBRSw)
 
-- Bulleted
-- List
+All about Xiaomi because they make cheap and good stuff and I like their products a bit too much: [youtube.com/miaxis](youtube.com/miaxis)
 
-1. Numbered
-2. List
+### SOCIAL
 
-**Bold** and _Italic_ and `Code` text
+I don't really do much public social stuffy
 
-[Link](url) and ![Image](src)
-```
+Twitter: [@AXISAdrielTan](twitter.com/axisadrieltan)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Personal Youtube: [youtube.com/adrieltan1](youtube.com/adrieltan1)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adrieltan1/adrieltan1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
