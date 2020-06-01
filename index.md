@@ -2,6 +2,8 @@
 
 I'm Adriel and this is my little space on the web :)
 
+Currently a CS student. Makes videos on the internet. Projects are fun. 
+
 Remember to put something more **descriptive** here in the future....
 
 Meanwhile, check out the other things I do on the internet :)
@@ -14,13 +16,12 @@ More refined/edited stuff is on the AXIS Project channel: [youtube.com/axisproje
 
 Vloggy/whatever happens stuff comes under extras: [link](https://www.youtube.com/channel/UCZWzdjp3yrrpNDfKHQXBRSw)
 
-All about Xiaomi because they make cheap and good stuff and I like their products a bit too much: [youtube.com/miaxis](youtube.com/miaxis)
 
 ### SOCIAL
 
-I don't really use much public social stuff but hey you are free to follow me there (what a pitch)
-
 Twitter: [@AXISAdrielTan](twitter.com/axisadrieltan)
+
+Instagram: [@adrieltan](instagram.com/adrieltan)
 
 Personal Youtube: [youtube.com/adrieltan1](youtube.com/adrieltan1)
 
